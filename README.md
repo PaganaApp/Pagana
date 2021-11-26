@@ -2,7 +2,7 @@
 
 Pagana is a real-time mixer.
 
-***This project is still in early stages of developpment and is not ready for any kind of production use or testing.***
+***This project is still in early stages of development and is not ready for any kind of production use or testing.***
 ## Development:
 ### Initializing the repository
 
