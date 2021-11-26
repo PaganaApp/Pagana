@@ -102,3 +102,15 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Tauri
+build/
+
+# VSCode
+.vscode/
+
+# Svelte-kit
+.svelte-kit/
+
+# Lock files
+*.lock
